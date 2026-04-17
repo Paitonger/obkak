@@ -5,9 +5,9 @@ hook.Add("InitPostEntity","NoWidgets",function()
  	DarkRP.removeChatCommand("cheque")
  	DarkRP.removeChatCommand("check")
   	DarkRP.removeChatCommand("freerpname")
- 	
+
  	hook.Remove("PlayerTick", "TickWidgets")
- 
+
  	if SERVER then
  		if timer.Exists("CheckHookTimes") then
  			timer.Remove("CheckHookTimes")
@@ -25,20 +25,20 @@ hook.Add("InitPostEntity","NoWidgets",function()
     for k, v in pairs(ents.FindByClass("func_tracktrain")) do v:Remove() end
     for k, v in pairs(ents.FindByClass("light_spot")) do v:Remove() end
     for k, v in pairs(ents.FindByClass("point_template")) do v:Remove() end
-    for k, v in pairs(ents.FindByClass("env_soundscape")) do v:Remove() end   
+    for k, v in pairs(ents.FindByClass("env_soundscape")) do v:Remove() end
 
  	end
-	
+
  	hook.Remove("PlayerTick","TickWidgets")
 	hook.Remove( "Think", "CheckSchedules")
 	timer.Destroy("HostnameThink")
 	hook.Remove("LoadGModSave", "LoadGModSave")
-	
-	// Remove a bunch of useless map stuff 
-	
-	
+
+	// Remove a bunch of useless map stuff
+
+
      if CLIENT then
-         
+
         local commands = {
             'r_3dsky 0',
             'r_lightaverage 0',
@@ -49,7 +49,7 @@ hook.Add("InitPostEntity","NoWidgets",function()
             'r_flex 0',
             'r_ForceWaterLeaf 0',
             'r_fastzreject -1',
-            'r_teeth 0', 
+            'r_teeth 0',
             'r_cheapwaterstart 1',
             'r_cheapwaterend 1',
             'r_waterforceexpensive 0',
@@ -74,13 +74,13 @@ hook.Add("InitPostEntity","NoWidgets",function()
             'r_minnewsamples 0',
             'r_maxsampledist 0',
             'r_spray_lifetime 1',
-            'r_mmx 1', 
+            'r_mmx 1',
             'r_sse 1',
             'r_sse2 1',
             'r_3dnow 1',
             'r_phong 0',
             'r_PhysPropStaticLighting 0',
-        --    'r_dynamic 0', 
+        --    'r_dynamic 0',
             'r_updaterefracttexture 0',
             'r_renderoverlayfragment 0',
          --   'r_worldlights 0',
@@ -104,8 +104,7 @@ hook.Add("InitPostEntity","NoWidgets",function()
             'r_threaded_client_shadow_manager 1',
             'cl_threaded_client_leaf_system 1',
             'cl_threaded_bone_setup 1',
-            'fov_desired 90',
-            'violence_hgibs 0', 
+            'violence_hgibs 0',
             'violence_agibs 0',
             'r_propsmaxdist 0',
             'props_break_max_pieces 0',
@@ -147,8 +146,6 @@ hook.Add("InitPostEntity","NoWidgets",function()
             'mat_hdr_level 0',
             'mat_disable_lightwarp 1',
             'mat_queue_mode 2',
-            'cl_forcepreload 1',
-            'voice_recordtofile 0',
             'cl_detail_avoid_radius 0',
             'net_compressvoice 1',
             'r_drawdetailprops 0',
@@ -157,9 +154,9 @@ hook.Add("InitPostEntity","NoWidgets",function()
             'cl_showhelp 0',
             'demo_avellimit 0',
         }
-        
+
         local i = 1
-        
+
         timer.Create('compliteCommands', 1, #table.GetKeys(commands), function()
             LocalPlayer():ConCommand(commands[i])
             print(commands[i])
@@ -191,14 +188,14 @@ hook.Add("InitPostEntity","NoWidgets",function()
         LocalPlayer():ConCommand('snd_restart; cl_drawmonitors 0; cl_tree_sway_dir .5 .5;')
         hook.Remove("StartChat", "StartChatIndicator")
         hook.Remove("FinishChat", "EndChatIndicator")
- 		
+
         local mountMdl = util.GetModelMeshes("models/props/CS_militia/gun_cabinet.mdl")
-        
+
         if mountMdl == nil then
         	chat.AddText( Color( 255, 0, 0 ), "[CSS] Мы заметили что у тебя не установлен контент CSS")
         	chat.AddText( Color( 255, 0, 0 ), "[CSS] Ссылка с исправлением: https://vk.cc/ariHzh")
         	chat.AddText( Color( 255, 0, 0 ), "[CSS] Открывай лучше на сервере в стим браузере. ( Shift + Tab )")
-        
+
         	gui.OpenURL('https://docs.google.com/document/d/1ikX4qrMcMv7-rHxW-jiGd4oc_OQpJfM5qtqolFhYb-A')
         end
  	end
@@ -213,4 +210,3 @@ hook.Add("OnEntityCreated","WidgetInit",function(ent) -- C+P from Facepunch
 end)
 
 
- 

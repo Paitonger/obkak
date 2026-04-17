@@ -19,7 +19,7 @@ hook.Add('Initialize', 'chiefDemote', function ()
 				[TEAM_TANKIST] = true,
 				[TEAM_SNIPER] = true,
 				[TEAM_DETECTIVE] = true,
-				[TEAM_SUPERPOLICE] = true,
+			--	[TEAM_SUPERPOLICE] = false,
 			},
 		},
 
@@ -32,7 +32,7 @@ hook.Add('Initialize', 'chiefDemote', function ()
 				[TEAM_TANKIST] = true,
 				[TEAM_SNIPER] = true,
 				[TEAM_DETECTIVE] = true,
-				[TEAM_SUPERPOLICE] = true,
+				--[TEAM_SUPERPOLICE] = false,
 			},
 		},
 	}

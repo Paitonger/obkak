@@ -14,9 +14,9 @@ local JOB_RESTRICT = {
 		['laserjetpack'] = true,
 	},
 
-	[TEAM_CITIZENKID] = {
-		['csgo_bayonet'] = true,
-	},
+	-- [TEAM_CITIZENKID] = {
+	-- 	['csgo_bayonet'] = true,
+	-- },
 	
 	[TEAM_MINERS] = {
 		['csgo_bayonet'] = true,

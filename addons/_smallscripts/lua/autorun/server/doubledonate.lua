@@ -85,8 +85,13 @@ end)
 hook.Add('PlayerInitialSpawn', 'SetIGSLVL', function(ply)
 	timer.Simple(50, function()
 		if not IsValid(ply) then return end
-		ply:SetNWString('IGS.Name', IGS.LVL.Get(IGS.PlayerLVL(ply)).name or "")
-		ply:SetNWInt('IGS.LVL', IGS.PlayerLVL(ply))
+
+		local lvl = IGS.PlayerLVL(ply)
+		if lvl == nil then return end
+
+		local lvlData = IGS.LVL.Get(lvl) or {}
+		ply:SetNWString('IGS.Name', lvlData.name or "")
+		ply:SetNWInt('IGS.LVL', lvl)
 	end)
 end)
 

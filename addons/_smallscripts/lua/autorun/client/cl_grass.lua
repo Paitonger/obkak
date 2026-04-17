@@ -9,7 +9,6 @@ hook.Add("Think", "grassss", function()
 
 	local mat = nil
 	
-    RunConsoleCommand("chat_pm_disable", 1)
 
 	timer.Create('check_flashlight', 1, 0, function()
 		if LocalPlayer():FlashlightIsOn() and GetConVarNumber('r_shadows') == 0 then
@@ -18,7 +17,6 @@ hook.Add("Think", "grassss", function()
 			LocalPlayer():ConCommand('r_shadows 0')
 		end
 		
-        LocalPlayer():ConCommand('chat_pm_disable 1')
 	end )
 end)
 

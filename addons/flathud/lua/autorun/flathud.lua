@@ -1,3 +1,8 @@
+if SERVER then
+    AddCSLuaFile()
+    return
+end
+
 local config = {}
 /*---------------------------------------------------------------------------
 	CONFIG
