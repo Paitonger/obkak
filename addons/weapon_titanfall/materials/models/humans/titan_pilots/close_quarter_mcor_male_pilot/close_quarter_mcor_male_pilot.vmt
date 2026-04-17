@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$surfaceprop" "flesh"
-	"$basetexture" "models\humans\titan_pilots\close_quarter_mcor_male_pilot\close_quarter_mcor_male_pilot_col"
-	"$bumpmap" "models\humans\titan_pilots\close_quarter_mcor_male_pilot\close_quarter_mcor_male_pilot_nml"
-}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$surfaceprop" "metal"
-	"$basetexture" "models\weapons\p2011sp\p2011sp_col"
-	"$bumpmap" "models\weapons\p2011sp\p2011sp_nml"
-}
