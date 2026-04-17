@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"			"props_firework/mortar_tube_base"
-	"$alphatest"			1
-	"$model" 1
-}

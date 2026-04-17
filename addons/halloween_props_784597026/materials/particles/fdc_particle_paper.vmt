@@ -1,5 +1,0 @@
-SpriteCard
-{
-$basetexture "particles\fdc_particle_paper.vtf"
-$translucent 1
-}
