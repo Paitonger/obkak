@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/sm2/spider-man/diffuse_2"
+"$surfaceprop" "flesh"
+}

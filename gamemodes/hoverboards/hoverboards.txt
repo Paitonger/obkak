@@ -1,0 +1,6 @@
+"hoverboards"
+{
+	"title"		"Hoverboards"
+	"base"		"base"
+	"maps"		"^hb_"
+}

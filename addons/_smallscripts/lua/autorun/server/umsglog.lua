@@ -1,0 +1,7 @@
+-- t.me/urbanichka
+--OLD_UMSGStart = OLD_UMSGStart or umsg.Start
+--function umsg.Start(strName, oReceivers)
+--    print("Starting ", strName)
+--    if istable(oReceivers) and oReceivers.GetPlayers then PrintTable(oReceivers:GetPlayers()) else PrintTable({oReceivers}) end
+--    OLD_UMSGStart(strName, oReceivers)
+--end

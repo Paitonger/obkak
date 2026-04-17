@@ -1,0 +1,66 @@
+"AddonInfo"
+{
+	"name" "Gmod 13 CS:S Sweps with C_models"
+	"author_name" "author"
+	"info" "Hello everyone,
+This is a pretty basic write up of a weapons base. My goal was for an arcade feel for recoil and spread. When Gmod 13 was released it broke most swep bases out there that had an arcade feel, my favorite being Leeroys CSS base. This pack was greatly inspired from his work. There werent alot of bases out here at first, however the ones that were had a very cenimatic feel to them. FA:S, CW, Mad Cows Base... Nothing was really arcadish. By all means Im not bragging about my base, it's pretty mediocre... I just disagree with the unpredictability of spread and the use of horizontal recoil. And lastly... This pack has basically lost support(Im still working on new things to add but if its not perfect I scrap it), however when it breaks from an update, I will be here to fix it. 
+Fonix
+
+This pack does NOT add any CS:S models or textures to Gmod, only contents are scripts, vgui for spawn icons, a few scope textures and two sounds. This pack uses the models that are in the Gmod vpk files. 
+
+[h1]For Those Without CS:S[/h1]
+If you don't have CS:S mounted then the textures will be very minimal. Try this [url=http://steamcommunity.com/sharedfiles/filedetails/?id=114881420]here[/url].
+
+[h1]Supported Additions to this Addon[/h1]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=663326831]LλMBDλ's Swep Pack[/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=260521538]The REE Sweps[/url]
+
+[h1]Conflicting ADDONS![/h1]
+Known sources of crotch gun issues: [url=http://steamcommunity.com/sharedfiles/filedetails/?id=163756693&searchtext=counter+strike]Addon 1[/url] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=191452760&searchtext=]Addon 2[/url]
+If you are having issues with scope textures, this pack is known to cause it: [url=http://steamcommunity.com/sharedfiles/filedetails/?id=444399817]Addon[/url]
+Stay Away From This Reupload, its using an out of date base: [url=http://steamcommunity.com/sharedfiles/filedetails/?id=737145739]Addon[/url]
+
+[h1]Console Commands [/h1]
+[b]There is no longer any need to use convars![/b]
+Go to the Spawn Menu>Options>CS:S 13 Tab>Client Stuff
+
+And for those servers who use the command below, its still there.
+Disable Dashing
+sv_ptp_dashing_disable 1 
+//This is for when you are sprinting the gun doesn't holster. (Set back to 0 if you want to reverse it.)
+
+
+
+Bases
+--------------
+My weapon base (I still need to name it)
+Worshipper's Scope and Grenade base
+--------------
+
+Check out some old Packs that aren't on the workshop (Legacy Version)
+These [b]REQUIRE[/b] the CS:S addon above to work. 
+Why have I removed these addons? I decided to start a clean slate of the workshop. 
+----------------------------------------------------------------------
+MediaFire
+-------------
+[url=http://www.mediafire.com/download/gombcxhtmsuu164/CSS+GameBanana+Sweps.rar]Counter Strike GameBanana Pack[/url]
+[url=http://www.mediafire.com/download/on5kpbo6qnda73k/PTP+Extra+Sweps.rar]Extra Sweps[/url]
+[url=http://www.mediafire.com/download/j55b5m8k84f6594/Csgo+Heavy+Weaponry.zip]CSGO Heavy[/url]
+[url=http://www.mediafire.com/download/phq5ddrnzqqdsjy/Csgo+Light+Weaponry.zip]CSGO Light[/url]
+[url=http://www.mediafire.com/download/11r2487kn9ld3qp/Csgo+Sniper+Pack.zip]CSGO Snipers[/url]
+
+FileSmelt
+-------------
+[url=http://filesmelt.com/dl/CSS_GameBanana_Sweps.rar]Counter Strike GameBanana Pack[/url]
+[url=http://filesmelt.com/dl/PTP_Extra_Sweps.rar]Extra Sweps[/url]
+
+Handy men
+--------------
+[url=http://steamcommunity.com/id/TaterHole/]Tater[/url]
+[url=http://steamcommunity.com/id/Lookatmelel/]Peter[/url]
+[url=http://steamcommunity.com/id/canyoureadthisstory/]Richboy[/url]
+
+
+Saturday, October 26, 2013 12:33pm -10k subs, Thanks Everyone for Downloading
+Sunday, May 25, 2014 8:37pm -30k subs, The size keeps increasing... very slowly!"
+}

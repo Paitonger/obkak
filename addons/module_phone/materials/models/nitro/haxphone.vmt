@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture		"models/nitro/haxphone"
+	$envmapcontrast		"0.5"
+	$selfillum		"1"
+}

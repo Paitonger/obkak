@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/sm2/spider-man/smenviro"
+"$envmap" "env_cubemap"
+//"$envmapsaturation" "0"
+//"$envmapcontrast" "1"
+//"$envmaptint" "[1.0 1.0 1.0]"
+"$surfaceprop" "flesh"
+}

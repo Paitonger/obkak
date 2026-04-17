@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Watch_Phone"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "weapon",
+	"tags": 
+	[
+		"roleplay",
+		"realism"
+	]
+}"
+}

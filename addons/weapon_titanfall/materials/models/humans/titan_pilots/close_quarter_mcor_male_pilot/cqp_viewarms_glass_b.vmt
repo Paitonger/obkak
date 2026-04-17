@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "glass"
+	"$basetexture" "models\humans\titan_pilots\close_quarter_mcor_male_pilot\cqp_viewarms_glass_b_col"
+	"$bumpmap" "models\humans\titan_pilots\close_quarter_mcor_male_pilot\cqp_viewarms_glass_b_nml"
+}

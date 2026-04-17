@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "plastic"
+	"$basetexture" "models\weapons\attachments\ammo_counter_screen_bg_col"
+}

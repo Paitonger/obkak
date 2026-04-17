@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Bitminers 2 - Server Content"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "servercontent",
+	"tags": 
+	[
+		"realism",
+		"roleplay"
+	]
+}"
+}
