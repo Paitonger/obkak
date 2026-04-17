@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ENT.Type 			= "point"
 ENT.Base 			= "base_point"
 ENT.PrintName		= "Blackout"

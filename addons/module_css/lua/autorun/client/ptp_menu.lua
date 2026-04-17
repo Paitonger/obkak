@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 //This was originally written by Worshipper.
 //Anything editted was to prevent conflicts between addons and some things I wanted to add to this script
 

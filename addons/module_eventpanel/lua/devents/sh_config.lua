@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 dEvents.config = {
     adminGroups = {
         ['Patron'] = true,

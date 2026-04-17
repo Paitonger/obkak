@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include("shared.lua")
 
 local base_gmodentity = scripted_ents.Get("base_gmodentity")

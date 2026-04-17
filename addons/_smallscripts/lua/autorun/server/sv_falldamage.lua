@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("Think", "startnodamage", function()    
     local job = {
         TEAM_BLACKSS,

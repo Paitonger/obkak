@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function dEvents.checkFolder()
     if not file.Exists('devents', 'DATA') then
         file.CreateDir('devents')

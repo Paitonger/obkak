@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 timer.Simple( .1, function()
 	weapons.GetStored( 'gmod_tool' ).ShootSound = Sound( 'ambient/weather/rain_drip4.wav' )
 	DarkRP.removeChatCommand("makeshipment")

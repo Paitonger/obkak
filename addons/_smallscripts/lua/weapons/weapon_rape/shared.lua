@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 SWEP.DrawWeaponInfoBox = true
 SWEP.Author			= 'doxzter'

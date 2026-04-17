@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add('Think', 'start_limit', function()
 hook.Remove('Think', 'start_limit')
 local plys = {}

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local distance = CreateClientConVar("viewpropsdist", "2500", true)
 local vector = FindMetaTable("Vector")
 

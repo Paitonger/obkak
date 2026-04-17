@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local SHEET = {}
 
 SHEET.UniqueID = "top_10_moneys"

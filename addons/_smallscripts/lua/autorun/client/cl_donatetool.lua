@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 net.Receive('sendTableToAdmin', function()
     local info = net.ReadTable()
     for i=1,table.Count(info) do

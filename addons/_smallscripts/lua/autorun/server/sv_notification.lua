@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 util.AddNetworkString("SaveFreeKill")
 
 hook.Add("PlayerDeath", "notif_killer", function( victim, inflictor, attacker )

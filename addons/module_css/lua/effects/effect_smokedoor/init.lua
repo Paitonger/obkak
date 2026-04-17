@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function EFFECT:Init( data )
 
 	local vOffset = data:GetOrigin()

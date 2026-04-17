@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function OpenWeaponsTab()
 	BG_HEADTEXT:SetText( "Оружие/Ящики" )
 	BG_HEADTEXT:SizeToContents()

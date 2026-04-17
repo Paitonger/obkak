@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function showlawlist()
     local cvar = GetConVar('wayskin_enable')
 	local laws = ""

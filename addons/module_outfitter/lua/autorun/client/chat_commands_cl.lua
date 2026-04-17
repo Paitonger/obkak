@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Example: list.Set("ChatCommands","test",function(paramstr,msg) PrintTable{paramstr,msg} return true end)
 
 local cmds={["!"]=true,["\\"]=true,["/"]=true,["."]=true}

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 list.Add( "OverrideMaterials", "models/wayzer/logo")
 list.Add( "OverrideMaterials", "models/XQM//Deg360" )
 list.Add( "OverrideMaterials", "models/XQM//LightLinesGB" )

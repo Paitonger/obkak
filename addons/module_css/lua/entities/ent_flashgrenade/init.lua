@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Flashbang Entity originally made by Cheesylard but modified by me. Cheesy, if you really don't appreciate what I take from you, just tell me, I'll remove this flash.
 
 AddCSLuaFile( "shared.lua" )

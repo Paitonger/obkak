@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local Tag='outfitter'
 
 -- lua_openscript_cl srv/outfitter/lua/outfitter/ui.lua;lua_openscript_cl srv/outfitter/lua/outfitter/gui.lua;outfitter_open

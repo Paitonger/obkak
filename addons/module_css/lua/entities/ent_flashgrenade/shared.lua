@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local FLASHTIMER = 5; --time in seconds, for the grenade to transition from full white to clear
 local EFFECT_DELAY = 2; --time, in seconds when the effects still are going on, even when the whiteness of the flash is gone (set to -1 for no effects at all =]).
 

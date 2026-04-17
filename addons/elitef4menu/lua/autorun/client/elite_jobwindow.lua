@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function OpenJobInfo( index )
 	local jbg = vgui.Create( "DFrame" )
 	jbg:SetSize( ScrW(), ScrH() )

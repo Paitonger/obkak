@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("PopulatePropMenu", "WayZer Prop", function()
 	local contents = {}
 

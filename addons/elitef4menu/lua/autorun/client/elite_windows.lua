@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function OpenTextBox( text1, text2, cmd )
 
 	local jbg = vgui.Create( "DFrame" )

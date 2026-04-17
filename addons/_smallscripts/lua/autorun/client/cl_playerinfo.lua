@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local hideHUDElements = {
 	["DarkRP_HUD"] = true,
 	["DarkRP_EntityDisplay"] = true,

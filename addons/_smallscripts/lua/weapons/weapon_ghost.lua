@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 AddCSLuaFile()
 
 SWEP.Base				= "weapon_base"

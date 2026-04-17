@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("InitPostEntity","NoWidgets",function()
  timer.Simple(60, function()
  	-- Usually the cause of some if not most lag.

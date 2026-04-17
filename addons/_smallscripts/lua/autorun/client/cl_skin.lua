@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add('Think', 'run_cl_wskin', function()
 hook.Remove('Think', 'run_cl_wskin')
 

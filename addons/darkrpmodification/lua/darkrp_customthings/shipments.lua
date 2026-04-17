@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Rifle
 AddCustomShipment("AK-47", "models/weapons/w_rif_ak47.mdl", "ptp_cs_ak47", 43000, 5, false, 0, false, {TEAM_GUN}) -- weapon_crossbow
 AddCustomShipment("P228", "models/weapons/w_pist_p228.mdl", "ptp_cs_p228", 9000, 5, false, 0, false, {TEAM_GUN})

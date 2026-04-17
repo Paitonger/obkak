@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function EFFECT:Init(data)
 	if (CLIENT and !CSR.UseMuzzle:GetBool()) then return end
 

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 if (SERVER) then
 	AddCSLuaFile("cl_init.lua")
 	AddCSLuaFile("shared.lua")

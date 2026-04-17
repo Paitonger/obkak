@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 net.Receive("ManyakSound", function() 
    sound.PlayURL ( "http://www.wayzerroleplay.myarena.ru/1.mp3", "mono", function( station )
       if ( IsValid( station ) ) then

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 sql.Query( "CREATE TABLE IF NOT EXISTS score_time (`TimePlayed` INT, `SteamID` VARCHAR(20), `Name` VARCHAR(100), PRIMARY KEY (`SteamID`) ); " )
 
 local blacklist_steamids = {

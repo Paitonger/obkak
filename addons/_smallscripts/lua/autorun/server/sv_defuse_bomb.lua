@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("KeyPress", "defuse_bomb", function(ply, key)
    if not ply:isCP() then return end
    if key ~= IN_USE then return end

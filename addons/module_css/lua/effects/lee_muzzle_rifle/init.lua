@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function EFFECT:Init(data)
 
 ptp_flash_data 		= CreateClientConVar("ptp_flash_data", 1, true, false)			

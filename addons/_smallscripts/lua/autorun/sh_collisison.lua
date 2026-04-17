@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
  timer.Create("updateCollisions", 10, 0, function()
 
      for k,v in pairs( player.GetAll() ) do

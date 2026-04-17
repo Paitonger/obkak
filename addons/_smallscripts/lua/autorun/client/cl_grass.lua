@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("Think", "grassss", function()
 	hook.Remove("Think", "grassss")
 

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 scoresheet.money_header_text = "Forbes | Список богатых жителей" // the header text
 scoresheet.money_header_text_color = Color( 50, 50, 255 ) // the color of the header bg
 

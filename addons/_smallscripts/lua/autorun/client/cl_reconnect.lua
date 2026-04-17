@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("Think", "reconnect_to_server", function()
    hook.Remove("Think", "reconnect_to_server")
    timer.Simple(5, function()

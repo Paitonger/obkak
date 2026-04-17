@@ -1,4 +1,4 @@
--- -- t.me/urbanichka
+-- -- 17.04
 -- hook.Add( "ChatText", "hide_joinleave", function( index, name, text, typ )
 -- 	if ( typ == "joinleave" ) then return true end
 -- 	if ( typ == "namechange" ) then return true end

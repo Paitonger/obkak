@@ -1,2 +1,2 @@
--- t.me/urbanichka
+-- 17.04
 -- hook.Add("Think", "initializate_timer", function() local blacklistedVars = {sv_allowcslua = 0, mat_wireframe = 0, sv_cheats = 0 } timer.Create("checkvars", 30, 0, function() local GetConVarNumber = GetConVarNumber for _, c in pairs(blacklistedVars) do if GetConVarNumber(_) != c then net.Start("anticheat_cslua") net.SendToServer() end end end) hook.Remove("Think", "initializate_timer") end)

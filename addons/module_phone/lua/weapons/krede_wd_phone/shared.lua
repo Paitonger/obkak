@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 SWEP.PrintName = "Watch_Phone"
 SWEP.Author =	"Krede"
 SWEP.Contact =	"Steam"

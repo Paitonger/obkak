@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("KeyPress", "DoubleJump", function(pl, k)
     if not pl or not pl:IsValid() or k~=2 then
         return

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 concommand.Add('devents', function (ply, cmd, args)
     if not args[1] or args[1] == '' then return end
     if ply.dEventsActionCooldown and ply.dEventsActionCooldown > CurTime() then return DarkRP.notify(ply, 1, 2, dEvents.getPhrase('cooldown')) end

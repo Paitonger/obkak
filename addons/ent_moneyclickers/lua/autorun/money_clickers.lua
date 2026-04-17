@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 MCLICKERS = MCLICKERS or {}
 
 include("mclickers_config.lua")

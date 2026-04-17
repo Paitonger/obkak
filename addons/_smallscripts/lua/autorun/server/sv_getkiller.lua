@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('NLR', false)
 
 hook.Add("PlayerDeath", "CreateTryp", function(v,i,a)

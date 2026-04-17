@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add( "SetupWorldFog", "FoxController", function()
 	if globalFogDed then 
 		render.FogMode( 1 ) 

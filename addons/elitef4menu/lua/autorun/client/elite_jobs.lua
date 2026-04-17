@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local showVIP = true
 
 local function PopulateJobList()

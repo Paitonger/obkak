@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 Krede_WD_HaxList = {}
 
 Krede_WD_HaxList["npc_manhack"] = {

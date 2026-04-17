@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 DarkRP.createEntity("Рация", {
 	ent = "entity_rachia",
 	model = "models/props_c17/BriefCase001a.mdl",

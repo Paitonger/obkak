@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- TETA_BONITA MADE THE SCOPE EFFECT (WHEN YOU ENTER IN YOUR SCOPE AND WHEN YOU LEAVE IT)
 
 include("shared.lua")

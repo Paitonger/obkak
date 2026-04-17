@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add('Think', 'startrenderprops', function()
 	timer.Create("setrenderprops", 10, 0, function()
 		LocalPlayer():ConCommand("viewpropsdist "..globalFogDed)

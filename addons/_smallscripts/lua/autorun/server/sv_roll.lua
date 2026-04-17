@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add('Think', 'running_roll', function()
 hook.Remove('Think', 'running_roll')
 

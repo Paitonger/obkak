@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include('shared.lua')
 local lw, lh = 700, 100
 function ENT:Draw()

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --OLD_UMSGStart = OLD_UMSGStart or umsg.Start
 --function umsg.Start(strName, oReceivers)
 --    print("Starting ", strName)

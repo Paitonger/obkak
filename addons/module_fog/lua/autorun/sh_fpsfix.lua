@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 globalFogDed = 3000
 
 timer.Create( "fpsoptdix", 2, 0, function()  

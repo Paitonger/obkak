@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 if SERVER then 
 	resource.AddFile( "materials/flathud/user.png" )
 	resource.AddFile( "materials/flathud/salary.png" )
