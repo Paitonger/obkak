@@ -1232,8 +1232,8 @@ AddDoorGroup("Военная База", TEAM_ARMIA, TEAM_ARMIAS, TEAM_ARMIASMED)
 DarkRP.createGroupChat(function(ply) return ply:isCP() end)
 DarkRP.createGroupChat(function(listener, ply) return not ply or ply:Team() == listener:Team() end)
 -- Initial team when first spawning
-GAMEMODE.DefaultTeam = TEAM_HOBO
-
+GAMEMODE.DefaultTeam = TEAM_CITIZEN
+--GOVNO
 -- Teams that belong to Civil Protection
 GAMEMODE.CivilProtection = {
     [TEAM_POLICE] = true,
