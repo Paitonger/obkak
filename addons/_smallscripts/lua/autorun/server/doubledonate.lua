@@ -85,6 +85,7 @@ end)
 hook.Add('PlayerInitialSpawn', 'SetIGSLVL', function(ply)
 	timer.Simple(50, function()
 		if not IsValid(ply) then return end
+		if not IGS or not IGS.PlayerLVL or not IGS.LVL or not IGS.LVL.Get then return end
 
 		local lvl = IGS.PlayerLVL(ply)
 		if lvl == nil then return end
