@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- common code for all types of grenade
 
 AddCSLuaFile()

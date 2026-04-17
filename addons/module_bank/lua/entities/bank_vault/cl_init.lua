@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include('shared.lua')
 
 surface.CreateFont('BankFont', {font = 'Coolvetica Rg', size = 100})

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 include( "ai_translations.lua" )
 include( "sh_anim.lua" )

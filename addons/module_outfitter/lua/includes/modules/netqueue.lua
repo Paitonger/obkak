@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 if CLIENT then
 	--TODO
 	net.queuesingle= function(a,...) return a(...) end

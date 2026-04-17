@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 -- Variables that are used on both client and server
 

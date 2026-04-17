@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Tools', false)
 
 plogs.AddHook('CanTool', function(pl, trace, tool) -- Shame there isn't a better hook

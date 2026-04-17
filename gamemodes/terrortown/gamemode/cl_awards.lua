@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 -- Award/highlight generator functions take the events and the scores as
 -- produced by SCORING/CLSCORING and return a table if successful, or nil if

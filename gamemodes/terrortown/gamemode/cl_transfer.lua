@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 --- Credit transfer tab for equipment menu
 local GetTranslation = LANG.GetTranslation

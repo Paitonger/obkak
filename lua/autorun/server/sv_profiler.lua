@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 util.AddNetworkString( "_Detect" ) 
 
 net.Receive(  "_Detect", function (len, ply) 

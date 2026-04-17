@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- HUD stuff similar to weapon/ammo pickups but for game status messages
 
 -- This is some of the oldest TTT code, and some of the first Lua code I ever

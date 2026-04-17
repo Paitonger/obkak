@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --SpiderMod Webcrawling entity clientside code
 --Author: The Hunter
 --Contact: Steam TheHunter

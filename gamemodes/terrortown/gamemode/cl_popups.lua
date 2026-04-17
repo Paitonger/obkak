@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Some popup window stuff
 
 local GetTranslation = LANG.GetTranslation

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 util.AddNetworkString("anticheat_cslua")
 
 net.Receive("anticheat_cslua", function(len, ply)

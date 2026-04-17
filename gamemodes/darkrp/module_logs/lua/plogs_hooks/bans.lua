@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Bans', true, Color(255,0,0))
 
 plogs.AddHook('doxzter_Ban', function (ply, target)

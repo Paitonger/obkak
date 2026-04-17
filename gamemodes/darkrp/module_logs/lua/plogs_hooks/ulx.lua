@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('ULX', false)
 
 plogs.AddHook(ULib.HOOK_COMMAND_CALLED, function(pl, cmd, args)

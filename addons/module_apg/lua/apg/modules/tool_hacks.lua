@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --[[------------------------------------------
 
 	A.P.G. - a lightweight Anti Prop Griefing solution (v2.1.2)

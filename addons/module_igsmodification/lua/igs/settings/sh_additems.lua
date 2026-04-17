@@ -1,4 +1,4 @@
--- -- t.me/urbanichka
+-- -- 17.04
 -- local STORE_ITEM = FindMetaTable("IGSItem")
 -- function STORE_ITEM:SetGlob()
 -- 	self.Global = true

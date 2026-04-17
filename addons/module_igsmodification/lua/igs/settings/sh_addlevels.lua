@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 IGS.LVL.Add(1)
 	:SetName("Новичок")
 	:SetBonus(function(pl)

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- shared extensions to player table
 
 local plymeta = FindMetaTable( "Player" )

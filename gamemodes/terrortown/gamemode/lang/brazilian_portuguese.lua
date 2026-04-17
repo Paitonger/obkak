@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Brazilian Portuguese language strings
 
 local L = LANG.CreateLanguage("Português (Brasil)")

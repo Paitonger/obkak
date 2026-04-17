@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 util.AddNetworkString("apg_settings_c2s")
 util.AddNetworkString("apg_menu_s2c")
 util.AddNetworkString("apg_context_c2s")

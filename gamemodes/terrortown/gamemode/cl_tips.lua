@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Tips panel shown to specs
 
 CreateConVar("ttt_tips_enable", "1", FCVAR_ARCHIVE)

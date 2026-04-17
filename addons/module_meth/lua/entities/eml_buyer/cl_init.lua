@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include("shared.lua")
 ENT.RenderGroup = RENDERGROUP_BOTH
 

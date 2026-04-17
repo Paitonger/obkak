@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function GetTraitors()
    local trs = {}
    for k,v in ipairs(player.GetAll()) do

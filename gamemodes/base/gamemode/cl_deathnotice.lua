@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local hud_deathnotice_time = CreateConVar( "hud_deathnotice_time", "6", FCVAR_REPLICATED, "Amount of time to show death notice" )
 

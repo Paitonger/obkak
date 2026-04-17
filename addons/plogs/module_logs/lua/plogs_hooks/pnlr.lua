@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('NLR', true, Color(255,100,0))
 
 plogs.AddHook('NLR', 'PlayerEnteredNlrZone', function(t, pl)

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 SWEP.Spawnable			= true
 SWEP.AdminSpawnable		= false	
 SWEP.UseHands		    = false

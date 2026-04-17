@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- weapon_vape/shared.lua
 -- Defines common shared code/defaults for Vape SWEP
 

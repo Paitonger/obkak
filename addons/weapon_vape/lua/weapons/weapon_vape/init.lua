@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- weapon_vape/init.lua
 -- Defines common serverside code/defaults for Vape SWEP
 

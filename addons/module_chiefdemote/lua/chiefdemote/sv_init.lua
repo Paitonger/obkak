@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 util.AddNetworkString('chiefDemote.demote')
 
 net.Receive('chiefDemote.demote', function (_, ply)

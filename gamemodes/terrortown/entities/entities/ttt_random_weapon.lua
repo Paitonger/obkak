@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Dummy ent that just spawns a random TTT weapon and kills itself
 
 ENT.Type = "point"

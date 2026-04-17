@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Event display information for Event Log in the Round Report
 
 ---- Usage:

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.sql._db = plogs.sql._db or plogs.sql.newdb(plogs.cfg.IP , plogs.cfg.User, plogs.cfg.Pass, plogs.cfg.DB, plogs.cfg.Port)
 
 local db = plogs.sql._db

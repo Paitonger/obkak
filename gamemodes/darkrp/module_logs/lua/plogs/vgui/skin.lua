@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local surface 				= surface
 local draw 					= draw
 

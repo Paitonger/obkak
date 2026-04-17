@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 AddCSLuaFile()
 ---------------------------------------------------------------------------------------------------------------------------//
 CreateConVar("hcp_fragility", "0", { FCVAR_SERVER_CAN_EXECUTE, FCVAR_REPLICATED, FCVAR_ARCHIVE, FCVAR_NOTIFY  } )

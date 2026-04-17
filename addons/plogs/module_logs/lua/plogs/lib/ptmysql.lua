@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local tostring  = tostring;
 local pairs     = pairs;
 local ipairs    = ipairs;

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 BM2CONFIG = {}
 
 --Setting this to false will disable the generator from making sound.

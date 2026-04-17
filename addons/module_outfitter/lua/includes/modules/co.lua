@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --setfenv(1,_G)
 local NATIVE = MENU_DLL ==nil and SERVER==nil and CLIENT==nil
 

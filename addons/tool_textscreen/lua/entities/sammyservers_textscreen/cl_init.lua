@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include("shared.lua")
 
 local render_convar_range = CreateClientConVar("ss_render_range", 1500, true, false, "Determines the render range for Textscreens. Default 1500")

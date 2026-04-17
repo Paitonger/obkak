@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 if SERVER then
     CreateConVar("sbox_maxpattern_keypads", 10)
 end

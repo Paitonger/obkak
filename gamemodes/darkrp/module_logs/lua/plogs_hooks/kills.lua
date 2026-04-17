@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Kills', true, Color(255,0,0))
 
 plogs.AddHook('PlayerDeath', function(pl, _, attacker)

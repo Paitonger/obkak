@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function RSP:AddNewZone( map, tab )
 	if ( string.lower( map ) != game.GetMap():lower() ) then return end
 	

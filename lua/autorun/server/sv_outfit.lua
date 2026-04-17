@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add( "CanOutfit", "srp_donate.wsmodels", function( ply, mdl, wsid )
 
     if not ply:HasPurchase("skinworkshop") then

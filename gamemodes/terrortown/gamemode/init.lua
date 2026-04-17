@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Trouble in Terrorist Town
 
 AddCSLuaFile("cl_init.lua")

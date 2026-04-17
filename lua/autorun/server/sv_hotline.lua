@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("OnPlayerChangedTeam", "ShowHUDHotline", function( ply, oldTeam, newTeam )
     if oldTeam == TEAM_MANUAK then
         ply:ConCommand("cl_hotline_pts 0")

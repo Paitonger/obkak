@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local DUPE_SEND_SIZE = 60000
 

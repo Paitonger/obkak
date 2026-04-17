@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add('Think', 'start_wep', function()
 hook.Remove('Think', 'start_wep')
 local JOB_RESTRICT = {

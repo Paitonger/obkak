@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --I know the folder "heroine" isn't right but I wanted the files to overwrite instead of having two files, heroine and heroin. So I just kept it as-is.
 
 AddCSLuaFile("shared.lua")

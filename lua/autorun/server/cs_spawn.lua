@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---------------------- Resources For Guns ------------------------------------
 
 resource.AddFile( "materials/vgui/entities/cs_glock18.vmt" );

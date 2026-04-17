@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 util.AddNetworkString('crashsaver.confirm')
 util.AddNetworkString('crashsaver.yes')
 util.AddNetworkString('crashsaver.no')

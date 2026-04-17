@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Clientside language stuff
 
 -- Need to build custom tables of strings. Can't use language.Add as there is no

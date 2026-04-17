@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function dEvents.canStartEvent(ply)
     if not IsValid(ply) then return false, 'Ты не существуешь 0_o' end
 

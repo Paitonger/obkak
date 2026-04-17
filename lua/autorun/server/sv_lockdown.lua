@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function LockDown( ply, text, public )
     if (string.sub(text, 1, 4) == "/lkd") then
 	if not ply:isMayor() then DarkRP.notify(ply, 1, 4, "У вас недостаточно привилегий!")	return "" end

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 PatternKeypad.version = "1.1.0"
 
 local function parseVersion(str)

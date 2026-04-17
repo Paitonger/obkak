@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Handcuff', false)
 
 plogs.AddHook('OnHandcuffed', function(pl, targ)

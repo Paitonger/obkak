@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Spanish language strings
 
 local L = LANG.CreateLanguage("Español")

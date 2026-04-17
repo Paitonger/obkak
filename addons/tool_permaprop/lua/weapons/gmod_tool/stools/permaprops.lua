@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 /*
 	PermaProps
 	Created by Entoros, June 2010

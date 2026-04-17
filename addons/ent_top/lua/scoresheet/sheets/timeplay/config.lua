@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 scoresheet.time_header_text = "Больше всего наиграно времени" // the header text
 scoresheet.time_header_text_color = Color( 150, 150, 105 ) // the color of the header bg
 

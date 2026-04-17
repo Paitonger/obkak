@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Ported to glua from http://lua-users.org/wiki/SecureHashAlgorithm
 
 sha2 = {}

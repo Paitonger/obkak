@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --Oh my god I can sit anywhere! by Xerasin--
 local NextUse = setmetatable({},{__mode='k'})
 --[[local SitOnEnts = CreateConVar("sitting_can_sit_on_ents","1",{FCVAR_NOTIFY})

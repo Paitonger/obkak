@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include("shared.lua")
 
 local fuelMaterial = Material("materials/bitminers2/ui/fuel.png", "noclamp smooth")

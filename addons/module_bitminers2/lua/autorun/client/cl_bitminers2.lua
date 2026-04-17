@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 //This file is mainly used for UI based stuff and controlling the miners.
 
 include("bitminers2_config.lua")

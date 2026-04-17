@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local gmod_drawhelp = CreateClientConVar( "gmod_drawhelp", "1", true, false, "Should the tool HUD be displayed when the tool gun is active?" )
 local gmod_toolmode = CreateClientConVar( "gmod_toolmode", "rope", true, true )

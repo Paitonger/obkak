@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Written by Team Ulysses, http://ulyssesmod.net/
 
 MySQLite.tableExists('utime', function(ex)

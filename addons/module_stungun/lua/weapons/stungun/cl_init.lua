@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 --[[
 Stungun SWEP Created by Donkie (http://steamcommunity.com/id/Donkie/)

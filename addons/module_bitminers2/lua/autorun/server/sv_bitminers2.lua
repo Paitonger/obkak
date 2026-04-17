@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 //This is a bunch of helper function for getting connected devices,
 //updating devices, getting linked generators etc
 

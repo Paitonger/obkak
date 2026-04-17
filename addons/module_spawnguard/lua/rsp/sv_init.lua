@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add( "EntityTakeDamage", "RSP.stopDamage", function( targ, dmg )
 	local attacker = dmg:GetAttacker()
 	

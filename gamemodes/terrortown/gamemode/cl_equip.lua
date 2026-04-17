@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Traitor equipment menu
 
 local GetTranslation = LANG.GetTranslation

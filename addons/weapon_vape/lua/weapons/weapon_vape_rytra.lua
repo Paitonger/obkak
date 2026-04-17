@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- weapon_vape_medicinal.lua
 -- Defines a vape that heals the player
 

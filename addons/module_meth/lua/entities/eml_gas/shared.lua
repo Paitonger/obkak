@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ENT.Base = "base_gmodentity";
 ENT.Type = "anim";
 

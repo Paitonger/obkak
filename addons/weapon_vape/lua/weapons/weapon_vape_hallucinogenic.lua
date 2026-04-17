@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- weapon_vape_hallucinogenic.lua
 -- Defines a vape which makes hallucinogenic effects on the user's screen
 

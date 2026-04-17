@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Hit
 plogs.Register('Hits', true, Color(51, 128, 255))
 

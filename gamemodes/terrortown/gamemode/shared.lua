@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 GM.Name = "Trouble in Terrorist Town"
 GM.Author = "Bad King Urgrain"
 GM.Website = "ttt.badking.net"

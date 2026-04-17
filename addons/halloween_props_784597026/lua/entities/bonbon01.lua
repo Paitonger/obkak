@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 -- Add the files that need to be downloaded
 resource.AddFile( 'models/Zerochain/props_halloween/bonbon01.mdl' )

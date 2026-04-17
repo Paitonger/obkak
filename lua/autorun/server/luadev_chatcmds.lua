@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 hook.Add("Think","luadev_cmdsinit",function()
 hook.Remove("Think","luadev_cmdsinit")
 

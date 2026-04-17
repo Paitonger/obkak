@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include("shared.lua")
 
 CreateClientConVar("climbswep2_showhud", 1, true, false)

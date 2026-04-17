@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- autorun/client/cl_vapeswep.lua
 -- Defines clientside globals for Vape SWEP
 

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- c4 explosive
 
 local math = math

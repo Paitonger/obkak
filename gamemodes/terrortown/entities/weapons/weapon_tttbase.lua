@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Custom weapon base, used to derive from CS one, still very similar
 
 AddCSLuaFile()

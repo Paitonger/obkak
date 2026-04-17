@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 handcuff = {}
 handcuff.angles = {
 	["ValveBiped.Bip01_R_Shoulder"] = Angle( 45,0,0 ),

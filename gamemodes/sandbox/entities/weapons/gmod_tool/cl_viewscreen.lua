@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local matScreen = Material( "models/weapons/v_toolgun/screen" )
 local txBackground = surface.GetTextureID( "models/weapons/v_toolgun/screen_bg" )

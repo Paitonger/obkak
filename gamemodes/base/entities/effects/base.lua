@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 --[[---------------------------------------------------------
 	Returns the right shoot start position for a tracer - based on 'data'.

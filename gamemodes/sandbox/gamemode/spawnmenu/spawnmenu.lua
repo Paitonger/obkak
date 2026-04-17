@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local spawnmenu_border = CreateConVar( "spawnmenu_border", "0.1", { FCVAR_ARCHIVE } )
 

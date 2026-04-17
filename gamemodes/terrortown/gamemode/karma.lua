@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Karma system stuff
 
 KARMA = {}

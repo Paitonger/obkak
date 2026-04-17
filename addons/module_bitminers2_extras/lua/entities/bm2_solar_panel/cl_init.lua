@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include("shared.lua")
 
 local warningMaterial = Material("materials/bitminers2/ui/warning.png", "noclamp smooth")

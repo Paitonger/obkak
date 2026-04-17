@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Italian language strings
 
 local L = LANG.CreateLanguage("Italiano")

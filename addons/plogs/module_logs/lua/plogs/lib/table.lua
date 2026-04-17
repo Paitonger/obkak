@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function table.Filter(tab, func)
 	local c = 1
 	for i = 1, #tab do

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 chiefDemote.config = {
 	frameSize = {w = 0.6, h = 0.8},
 	mainColor = Color(54,57,62),

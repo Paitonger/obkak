@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local surface_SetDrawColor = surface.SetDrawColor
 local rad = math.rad
 local sin = math.sin

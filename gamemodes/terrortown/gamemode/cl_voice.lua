@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Voicechat popup, radio commands, text chat stuff
 
 DEFINE_BASECLASS("gamemode_base")

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 list.Set( "RopeMaterials", "#ropematerial.rope",		"cable/rope" )
 list.Set( "RopeMaterials", "#ropematerial.cable",		"cable/cable2" )

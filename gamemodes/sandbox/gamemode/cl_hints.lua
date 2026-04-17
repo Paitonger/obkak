@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 
 CreateClientConVar( "cl_showhints", "1", true, false )

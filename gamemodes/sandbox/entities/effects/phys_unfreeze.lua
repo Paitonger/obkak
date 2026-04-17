@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local effects_unfreeze = CreateClientConVar( "effects_unfreeze", "1", true, false )
 

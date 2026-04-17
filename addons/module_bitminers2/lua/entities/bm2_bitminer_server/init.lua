@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 AddCSLuaFile("shared.lua")
 AddCSLuaFile("cl_init.lua")
 include("shared.lua")

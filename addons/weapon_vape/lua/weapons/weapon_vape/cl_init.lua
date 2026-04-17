@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- weapon_vape/cl_init.lua
 -- Defines common clientside code/defaults for Vape SWEP
 

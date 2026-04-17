@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- luacheck: globals ubit GetNetDataTable player.GetNetVarsTable net.queuesingle net.queue
 
 --TODO: pl:SetNetDataType("varname",TYPE_STRING)

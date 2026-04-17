@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 -- Add Network Strings we use
 util.AddNetworkString( "PlayerKilledNPC" )

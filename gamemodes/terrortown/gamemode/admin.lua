@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --- Admin commands
 
 local function GetPrintFn(ply)

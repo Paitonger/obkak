@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 pmysqloo = pmysqloo or { }
 require('mysqloo')
 local tostring, string, unpack, type

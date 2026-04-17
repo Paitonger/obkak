@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Connections', true, Color(0,255,0))
 
 plogs.AddHook('PlayerInitialSpawn', function(pl)

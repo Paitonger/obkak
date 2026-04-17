@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 AddCSLuaFile("bitminers2_extra_config.lua")
 include("bitminers2_extra_config.lua")
 

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --This is a list of your server's maps which are available through the workshop
 --Each one uses the map file's name and the workshop ID
 maplist = {}

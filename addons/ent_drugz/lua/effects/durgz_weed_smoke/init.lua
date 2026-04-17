@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local function randn(x)
 	return math.Rand(-x, x);
 end

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 AddCSLuaFile()
 
 DEFINE_BASECLASS "weapon_tttbase"

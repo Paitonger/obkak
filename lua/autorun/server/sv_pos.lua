@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local entMeta = FindMetaTable('Entity')
 local phyMeta = FindMetaTable('PhysObj')
 

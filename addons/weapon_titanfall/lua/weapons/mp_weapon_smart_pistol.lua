@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 if CLIENT then
 SWEP.WepSelectIcon = surface.GetTextureID( "ui/menu/items/weapon_smartpistol" )
 SWEP.DrawWeaponInfoBox	= false

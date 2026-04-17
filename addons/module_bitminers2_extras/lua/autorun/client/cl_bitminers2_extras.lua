@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 include("bitminers2_extra_config.lua")
 
 local screenOverlay = Material("bitminers2/ui/screen_overlay.png", "smooth")

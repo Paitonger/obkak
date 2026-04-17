@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local ActIndex = {
 	[ "pistol" ]		= ACT_HL2MP_IDLE_PISTOL,

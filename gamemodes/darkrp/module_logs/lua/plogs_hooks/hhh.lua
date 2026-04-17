@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Hits', true, Color(51, 128, 255))
 
 plogs.AddHook('hhh_hitRequested', function(hitData)

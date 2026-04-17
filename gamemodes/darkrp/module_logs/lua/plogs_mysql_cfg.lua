@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 --
 -- MySQL configs
 -- Note: I highly recomend use of tmysql over mysqloo because mysqloo both slow and an extreme memory leak.

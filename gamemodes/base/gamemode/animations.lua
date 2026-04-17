@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 function GM:HandlePlayerJumping( ply, velocity )
 

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Chat', false)
 
 local hook_name = DarkRP and 'PostPlayerSay' or 'PlayerSay'

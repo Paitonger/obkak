@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 PatternKeypad = PatternKeypad or {}
 
 if SERVER then

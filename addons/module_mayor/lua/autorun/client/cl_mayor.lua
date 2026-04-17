@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 concommand.Add("mayorpanel", function()
 	if not LocalPlayer():Team() == TEAM_MAYOR then return end
 	local frame = vgui.Create("DFrame")

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 -- Tool should return true if freezing the view angles
 function ToolObj:FreezeMovement()

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Simplified Chinese language strings
 
 local L = LANG.CreateLanguage("简体中文")

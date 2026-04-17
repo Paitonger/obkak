@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local capturing = false
 local screenshotRequested = false
 local screenshotFailed = false

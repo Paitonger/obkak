@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('LAC', true, Color(204,0,153))
 
 plogs.AddHook('LAC.OnDetect', function(pl, logstr, reason)

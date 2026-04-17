@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Key overrides for TTT specific keyboard functions
 
 local function SendWeaponDrop()

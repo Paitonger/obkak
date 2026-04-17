@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- weapon_vape_juicy.lua
 -- Defines a vape with selectable cloud colors
 

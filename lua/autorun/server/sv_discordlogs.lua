@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 local s = {
     url = 'http://wayzerroleplay.myarena.ru/php',
     guild = '275515018282532865',

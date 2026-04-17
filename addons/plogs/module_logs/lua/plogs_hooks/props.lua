@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 plogs.Register('Props', true, Color(50,175,255))
 
 plogs.AddHook('PlayerSpawnProp', function(pl, mdl)

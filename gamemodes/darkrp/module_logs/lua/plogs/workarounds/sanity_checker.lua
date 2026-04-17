@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- Let's reduce support tickets by 50%
 local function LowerKeys(tab)
 	for k, v in pairs(tab) do

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 include("weaponry_shd.lua") -- inits WEPS tbl
 

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 TOOL.AddToMenu = false
 TOOL.Category = "WayZer's Role Play"
 TOOL.Name = "#tool.paint.name"

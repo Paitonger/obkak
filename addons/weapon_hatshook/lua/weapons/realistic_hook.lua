@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 // A more realistic grappling hook
 
 if SERVER then

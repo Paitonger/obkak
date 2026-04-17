@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- VGUI panel version of the scoreboard, based on TEAM GARRY's sandbox mode
 ---- scoreboard.
 

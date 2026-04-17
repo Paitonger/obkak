@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Carry weapon SWEP
 
 AddCSLuaFile()

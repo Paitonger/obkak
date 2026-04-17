@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 function plogs.Register(type, network, color)
 	plogs.types[type] = plogs.types[type] or {
 		Type 	= type, 

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 util.AddNetworkString('waygrab.stop')
 util.AddNetworkString('waygrab.failed')
 util.AddNetworkString('waygrab.success')

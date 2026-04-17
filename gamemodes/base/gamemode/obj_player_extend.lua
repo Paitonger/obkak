@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 local meta = FindMetaTable( "Player" )
 if ( !meta ) then return end

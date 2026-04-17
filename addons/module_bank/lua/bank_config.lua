@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 BANK_CONFIG = {} 
 BANK_CONFIG.MinGovernment = 3 -- Minimum number of teams considered cops by the Bank needed to start a robbery. (0 to disable)
 BANK_CONFIG.MinBankers = 0 -- Minimum number of teams considered bankers by the Bank needed to start a robbery. (0 to disable)

@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 zhits.language = {
       notEnoughMoney                = 'У вас недостаточно денег для этого!',
       jailHit                       = 'Ты не можешь делать заказ в тюрьме!',

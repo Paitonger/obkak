@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 include( "duplicator/transport.lua" )
 include( "duplicator/arming.lua" )

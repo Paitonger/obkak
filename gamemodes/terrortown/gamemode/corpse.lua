@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Corpse functions
 
 -- namespaced because we have no ragdoll metatable

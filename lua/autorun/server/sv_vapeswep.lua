@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 -- autorun/server/sv_vapeswep.lua
 -- Defines serverside globals for Vape SWEP
 

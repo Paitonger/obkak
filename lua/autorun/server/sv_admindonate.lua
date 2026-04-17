@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 /*
 hook.Add('OnPlayerChangedTeam', 'money_admin', function(ply, old, new)
 	

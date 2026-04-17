@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 
 --[[---------------------------------------------------------
 	Name: gamemode:OnPhysgunFreeze( weapon, phys, ent, player )

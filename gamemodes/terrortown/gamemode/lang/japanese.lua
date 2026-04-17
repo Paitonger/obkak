@@ -1,4 +1,4 @@
--- t.me/urbanichka
+-- 17.04
 ---- Japanese language strings
 
 local L = LANG.CreateLanguage("日本語")
