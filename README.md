@@ -1,2 +1,0 @@
-# obkak
-obkak reyz
