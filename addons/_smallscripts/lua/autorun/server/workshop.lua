@@ -22,7 +22,7 @@ resource.AddWorkshop ( "1293556000" ) -- Admin Playermodel
 resource.AddWorkshop ( "906964622" ) -- bitcoin PC
 resource.AddWorkshop ( "1245039183" ) -- darkrp
 resource.AddWorkshop ( "825872799" ) -- shield 
-resource.AddWorkshop ( "112550250" ) -- saw
+--resource.AddWorkshop ( "112550250" ) -- saw
 resource.AddWorkshop ( "1495420053" ) -- sounds
 resource.AddWorkshop ( "856642551" ) -- smart pistol
 resource.AddWorkshop ( "822232922" ) -- xmas
