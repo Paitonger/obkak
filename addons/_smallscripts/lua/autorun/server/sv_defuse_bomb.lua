@@ -32,16 +32,16 @@ hook.Add("KeyPress", "defuse_bomb", function(ply, key)
    
 end)
 
-hook.Add("KeyPress", "snowball_equip", function(ply, key)
-	if key ~= IN_USE then return end
-	local tr = ply:GetEyeTrace()
-	if not IsValid(tr.Entity) then return end
-	if tr.Entity:GetModel() ~= [[models\props/cs_militia/rockpileramp01.mdl]] then return end
-	if tr.Entity:GetPos():Distance(ply:GetShootPos()) > 300 then return end 
-	ply:Give("snowball_thrower_nodamage")
-	ply:SelectWeapon("snowball_thrower_nodamage")
-end)
-
+--hook.Add("KeyPress", "snowball_equip", function(ply, key)
+	--if key ~= IN_USE then return end
+--	local tr = ply:GetEyeTrace()
+	--if not IsValid(tr.Entity) then return end
+	--if tr.Entity:GetModel() ~= [[models\props/cs_militia/rockpileramp01.mdl]] then return end
+--	if tr.Entity:GetPos():Distance(ply:GetShootPos()) > 300 then return end 
+	--ply:Give("snowball_thrower_nodamage")
+--	ply:SelectWeapon("snowball_thrower_nodamage")
+--end)
+-- надо будет сам коммент снимешь петух
 hook.Add("KeyPress", "mayor_home", function(ply, key)
    if key ~= IN_USE then return end
    local tr = ply:GetEyeTrace()
