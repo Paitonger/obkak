@@ -1,2 +1,0 @@
--- 17.04
-BITMINERS_2_EXTRAS_DLC = true
